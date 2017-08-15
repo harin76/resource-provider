@@ -1,5 +1,5 @@
 {
-  "name": "resource-providers",
+  "name": "resource-provider",
   "version": "0.1.0",
   "description": "A generic provider module to configure resource providers such as database connections, cache manager connection etc.",
   "main": "index.js",
