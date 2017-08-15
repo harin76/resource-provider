@@ -1,0 +1,34 @@
+{
+  "name": "resource-providers",
+  "version": "0.1.0",
+  "description": "A generic provider module to configure resource providers such as database connections, cache manager connection etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harin76/resource-providers.git"
+  },
+  "keywords": [],
+  "author": "Hari Narasimhan <hari@canvara.co.in> (http://canvara.co.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harin76/resource-providers/issues"
+  },
+  "homepage": "https://github.com/harin76/resource-providers#readme",
+  "devDependencies": {
+    "eslint": "4.4.1",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-node": "5.1.1",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-standard": "3.0.1"
+  },
+  "dependencies": {
+    "await-to-js": "1.0.1",
+    "generic-pool": "3.1.7",
+    "lodash": "4.17.4",
+    "mongodb": "2.2.31"
+  }
+}
